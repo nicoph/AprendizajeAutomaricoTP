@@ -13,5 +13,6 @@
 - El trabajo fue realizado en Jupiter Notebook de Google Colab
 Para correr de forma local solamente cabiar la variable file_path por su ruta de esta manera: 
 file_path= './ruta-al-archivo/weatherAUS.csv'
+- Al utilizar plotly express para unos gráficos, la preview en git no visuliza esos mismos.
 
 ## Toda la información adicinal se encuantra en la notebook

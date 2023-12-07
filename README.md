@@ -24,4 +24,4 @@ Correr de forma local ejecutando el siguiente comando
 ```python
 streamlit run app.py
 ```
-O acceder a [Hugging Fac](https://huggingface.co/spaces/rv3r/AA-PrecitipitationsAustraliaPredictions) para probarlo de forma online
+O acceder a [Hugging Face](https://huggingface.co/spaces/rv3r/AA-PrecitipitationsAustraliaPredictions) para probarlo de forma online

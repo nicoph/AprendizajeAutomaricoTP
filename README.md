@@ -13,8 +13,8 @@
 - El trabajo fue realizado en Jupiter Notebook de Google Colab
 Para correr de forma local solamente cabiar la variable file_path por su ruta de esta manera: 
 file_path= './ruta-al-archivo/weatherAUS.csv'
-- pip install req.txt
-- pip install -U scikit-learn
+- pip install requirements.txt
 - Al utilizar plotly express para unos gráficos, la preview en git no visuliza esos mismos.
-
+- Se recomienda usar entorno virtual debido a la cantidad de librerias y los posibles problemas de versionado
+- *más info* https://docs.python.org/es/3/tutorial/venv.html
 ## Toda la información adicinal se encuentra en la notebook

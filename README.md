@@ -18,3 +18,10 @@ file_path= './ruta-al-archivo/weatherAUS.csv'
 - Se recomienda usar entorno virtual debido a la cantidad de librerias y los posibles problemas de versionado
 - *más info* https://docs.python.org/es/3/tutorial/venv.html
 ## Toda la información adicinal se encuentra en la notebook
+
+Se agrego un deply con streamlit
+Correr de forma local ejecutando el siguiente comando
+```python
+streamlit run app.py
+```
+O acceder a [Hugging Fac](https://huggingface.co/spaces/rv3r/AA-PrecitipitationsAustraliaPredictions) para probarlo de forma online

@@ -1,4 +1,6 @@
 # AprendizajeAutomaricoTP
+## Escandell Ariel
+## Di Marco Nicolás
 ## Objetivo
 
 - Familiarizarse con la librería scikit-learn y las herramientas que brinda para el pre-procesamiento de datos, la implementación de modelos y la evaluación de métricas, y con TensorFlow para el entrenamiento de redes neuronales.
@@ -17,7 +19,7 @@ file_path= './ruta-al-archivo/weatherAUS.csv'
 - Al utilizar plotly express para unos gráficos, la preview en git no visuliza esos mismos.
 - Se recomienda usar entorno virtual debido a la cantidad de librerias y los posibles problemas de versionado
 - *más info* https://docs.python.org/es/3/tutorial/venv.html
-## Toda la información adicinal se encuentra en la notebook
+## Toda la información adicional se encuentra en la notebook
 
 Se agrego un deply con streamlit
 Correr de forma local ejecutando el siguiente comando

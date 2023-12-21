@@ -15,7 +15,7 @@ input_features = [
 
 # Se carga el pipeline del modelo.
 path_dir=os.path.dirname(os.path.abspath(__file__))
-pkl_path=os.path.join(path_dir, 'regresion_lineal_pipeline.pkl')
+pkl_path=os.path.join(path_dir, 'regresion_lineal_pipeline2.pkl')
 pipeReg = joblib.load(pkl_path)
 
 pkl_path2=os.path.join(path_dir, 'regresion_logistica_pipeline.pkl')
@@ -81,4 +81,4 @@ if submit_button:
     st.header("Llueve Mañana?")
     st.write(prediction_value)
     st.header("Cuanto Llueve?")
-    st.write(prediction_value2)
+    st.write(prediction_value2.round(2))
